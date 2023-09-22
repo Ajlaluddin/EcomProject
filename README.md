@@ -3,7 +3,7 @@
 ### Its a Demo Version, for full version see https://github.com/swapnilbamble1438/EcommerceApp
 
 ### Technology used in this Project: 
-Only Html,Css,Bootstrap,Javscript are used to build the project
+Html,Css,Bootstrap,Javscript are used to build the project
 
 ### Software And Tools Required:
 Visual Studio
