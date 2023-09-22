@@ -8,4 +8,4 @@ Only Html,Css,Bootstrap,Javscript are used to build the project
 ### Software And Tools Required:
 Visual Studio
 
-Try this Project url: https://github.com/swapnilbamble1438/EcomProjectDemo
+Try this Project url: https://swapnilbamble1438.github.io/EcomProjectDemo/
